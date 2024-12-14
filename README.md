@@ -1,4 +1,4 @@
-
+```
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -141,3 +141,4 @@ public class BlockchainMiningExample {
         System.out.println("Is blockchain valid? " + blockchain.isChainValid());
     }
 }
+```
